@@ -1,4 +1,4 @@
-```markdown
+
 # RAG com Agente e Vector Store
 
 Este código Python demonstra a implementação de um sistema de Retrieval-Augmented Generation (RAG) utilizando um agente Langchain, um Vector Store FAISS e modelos Hugging Face e Google GenAI.
