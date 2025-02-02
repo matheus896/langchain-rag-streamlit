@@ -1,0 +1,15 @@
+[project]
+name = "agentic-basic-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain",
+    "langchain-community",
+    "langchain-google-genai",
+    "pypdf",
+    "faiss-cpu",
+    "langchain-huggingface",
+    "python-dotenv",
+]
