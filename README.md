@@ -16,8 +16,7 @@ O sistema RAG carrega documentos PDF, cria um índice vetorial usando embeddings
 
 1. Clone este repositório:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone [<repository_url>](https://github.com/matheus896/langchain-rag-streamlit.git)
    ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
